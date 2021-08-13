@@ -13,3 +13,9 @@
 ```
 
 *Note: Current models are trained with 20k images (Human faces) of Open Images v6. All these faces satisfy: bbox_area/image_area > 0.03*. So expect poor performance on those images which bbox occupy less than 3% of the image.
+
+## TODO
+
+- [x] ncnn optimized models
+- [ ] EfficientNet-Lite0 model
+- [ ] Yolo Fastest v2
