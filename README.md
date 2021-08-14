@@ -1,6 +1,6 @@
 ## Nanodet Trained Models
 
-**Nanodet** trained models for different tasks, i.e. **Face Detection**. For more details check out [Nanodet repo](https://github.com/RangiLyu/nanodet/). Models were trained with Google Colab servers (Single GPU)
+**Nanodet** trained models for **Face Detection**. For more details check out [Nanodet repo](https://github.com/RangiLyu/nanodet/). Models were trained with Google Colab servers (Single GPU)
 
 ### Directory structure
 
