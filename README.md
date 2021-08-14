@@ -1,4 +1,4 @@
-## Nanodet Trained Models
+## Nanodet - Face Detecion
 
 **Nanodet** trained models for **Face Detection**. For more details check out [Nanodet repo](https://github.com/RangiLyu/nanodet/). Models were trained with Google Colab servers (Single GPU)
 
@@ -17,5 +17,5 @@
 ## TODO
 
 - [x] ncnn optimized models
-- [ ] EfficientNet-Lite0 model
+- [x] EfficientNet-Lite0 model
 - [ ] Yolo Fastest v2
