@@ -6,9 +6,10 @@
 
 ```
 .
-├── face                            # Face related object detection - OpenImages Dataset (20k train : 4k test)
-│   ├── nanodet_m_1.0x_sgd          # Cfg, checkpoints, ... for nanodet_m_1.0x trained w/ SGD
-│   ├── nanodet_m_0.5x_sgd_416x416  # Cfg, checkpoints, ... for nanodet_m_0.5x trained w/ SGD @ 416x416
+├── face                                 # Face related object detection - OpenImages Dataset (20k train : 4k test)
+│   ├── nanodet_m_1.0x_sgd                      # Cfg, checkpoints, ... for nanodet_m_1.0x @ 320x320
+│   ├── nanodet_m_0.5x_sgd_416x416              # Cfg, checkpoints, ... for nanodet_m_0.5x @ 416x416
+|   ├── nd-efficientnet_lite0_more_aug_320x320  # Cfg, checkpoints, ... for efficientnet_lite0 @ 320x320
 └── ...
 ```
 
